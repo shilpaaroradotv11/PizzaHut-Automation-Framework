@@ -2,6 +2,14 @@
 
 End-to-end web test automation framework developed using Selenium WebDriver, Java, Cucumber, TestNG, Maven, Page Object Model (POM), Hooks, and Extent Reports.
 
+## Execution Evidence
+
+- Successful Maven Test Execution
+- Extent Report Generation
+- End-to-End Pizza Hut Order Flow Validation
+
+Screenshots are available in the `/screenshots` folder.
+
 ## Features
 
 * Selenium WebDriver Automation
