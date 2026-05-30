@@ -2,8 +2,6 @@
 
 End-to-end web test automation framework developed using Selenium WebDriver, Java, Cucumber, TestNG, Maven, Page Object Model (POM), Hooks, and Extent Reports.
 
-Screenshots are available in the `/screenshots` folder.
-
 ## Features
 
 * Selenium WebDriver Automation
